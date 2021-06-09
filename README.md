@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @ElenaKaza
+- 👋 Hi, I’m Elena
 - 👀 I’m interested in DataBases
 - 🌱 I’m currently learning PostgreSQL
 - 💞️ I’m looking to collaborate on Databases Architects&Developers
