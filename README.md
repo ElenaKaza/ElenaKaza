@@ -1,7 +1,7 @@
 - 👋 Hi, I’m Elena
-- 👀 I’m interested in DataBases
-- 🌱 I’m currently learning PostgreSQL
-- 💞️ I’m looking to collaborate on Databases Architects&Developers
+- 👀 I’m interested in DataBases, ETL, DWH, DataMarts,...
+- 🌱 I’m currently learning Hadoop, Hive, AirFlow
+- 💞️ I’m looking to collaborate on Databases Architect&Developer&Analyst
 - 📫 How to reach me: elena-kazanceva@mail.ru
 
 <!---
