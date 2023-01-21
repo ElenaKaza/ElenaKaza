@@ -1,7 +1,6 @@
 - 👋 Hi, I’m Elena
-- 👀 I’m interested in DataBases, ETL, DWH, DataMarts,...
-- 🌱 I’m currently learning Hadoop, Hive, AirFlow, Python
-- 💞️ I’m looking to collaborate on Data Architect&Developer&Analyst
+- 👀 I’m interested in DataBases, SQL, ETL, DWH, DataMarts,...
+- 🌱 I’m currently working in FinTech as a System Analys
 - 📫 How to reach me: svechikrd@gmail.com
 
 <!---
